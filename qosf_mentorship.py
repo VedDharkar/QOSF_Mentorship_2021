@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 20 10:22:42 2021
-
-@author: VED DHARKAR
-"""
 
 from qiskit import *
 from qiskit import QuantumCircuit, Aer, assemble
